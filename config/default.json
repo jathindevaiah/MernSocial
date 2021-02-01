@@ -1,3 +1,4 @@
 {
-    "mongoURI": "<Enter Conn string here>"
+    "mongoURI": "<Enter Conn string here>",
+    "jwtSecret": "mysecrettoken"  
 }
